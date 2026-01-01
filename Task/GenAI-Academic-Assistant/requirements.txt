@@ -1,0 +1,8 @@
+openai==0.28.0
+python-dotenv==1.0.0
+jupyter
+numpy
+matplotlib
+seaborn
+flask
+flask-cors
